@@ -1,5 +1,5 @@
 ---
-layout: magento
+layout: default
 title: Website Maintainance & Content Management
 ---
 # Website Maintainance & Content Management
