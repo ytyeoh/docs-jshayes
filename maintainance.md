@@ -2,25 +2,25 @@
 layout: default
 title: Website Maintainance & Content Management
 ---
-# Website Maintainance & Content Management
-We charge RM800 per day for task handle by on demand. Here I give some scenario might happen can finish withn a day.
+# Website Maintenance & Content Management  
 
+We charge RM800 per day for tasks handled on demand. Below are some scenarios that can typically be completed within a day.
 
-## File Uplaod
-Wordpress have size limit for uplaod, it could be image, pdf or video. We will support to make sure related content show in website.
+## File Upload  
+WordPress has a size limit for uploads, which could include images, PDFs, or videos. We provide support to ensure the related content is properly displayed on the website.
 
-## Staging Server
-Sync contetn/changes from staging server to production server. Staging server to display and test for any new fucntion or view new content before direct publish to production server. We will handle databse and related new files been sync to production server.
+## Staging Server  
+Sync content/changes from the staging server to the production server. The staging server is used to display and test new features or view updated content before publishing directly to the production server. We will manage the database and ensure all related new files are synced to the production server.
 
+## WordPress Update  
+Approximately every 3–4 years, WordPress releases a major version update, and minor updates occur every 4–6 months. You can refer to [WordPress Versions](https://wordpress.org/documentation/article/wordpress-versions/) for detailed information on these updates.
 
-## Wordpress Update
-Around 3-4 years Woedpress will have a major version uddate, 4-6 month a minor update. https://wordpress.org/documentation/article/wordpress-versions/ will show versions details of wordpress update.
+## Plugin Update  
+The update frequency for plugins varies depending on WordPress versions. After a WordPress update, it is essential to ensure that all plugins are compatible with the new version.
 
-## Plugin Update
-Update time range of plugin will be vary based on Wordpres versions. Once update Wordpress also need make sure plugin is compatitable.
+## Malware/Virus Infection  
+When a website is affected by malware, we typically block access to the entire site until the malware is cleaned. Once cleaned from the client’s side, the site will be reopened. In such cases, we assist in removing malware to get the website back online as soon as possible.
 
-## Malware Affection
-Usualy website affect by malware we will block whole website until malware been clean from client side only open back, in this case we will help clean malware to up website ASAP.
 
 
 
